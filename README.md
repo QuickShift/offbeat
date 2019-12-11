@@ -71,5 +71,5 @@ There are still plenty of things that could be implemented, fixed and experiment
 * [GDC Vault - Halo Reach Effects Tech](https://www.gdcvault.com/play/1014347/HALO-REACH-Effects)
 * Jonathan Blow's particle system stream recordings: [1](https://www.youtube.com/watch?v=bFY-aOPnqEI), [2](https://www.youtube.com/watch?v=5c-mtq_WjaE), [3](https://www.youtube.com/watch?v=pAsFngEL8eI)
 * Casey Muratori's Handmade Hero particle system episodes: [Day 155](https://guide.handmadehero.org/code/day155), [Day 156](https://guide.handmadehero.org/code/day156), [Day 336](https://guide.handmadehero.org/code/day336), [Day 337](https://guide.handmadehero.org/code/day337), [Day 338](https://guide.handmadehero.org/code/day338)
-* [GDC 2014 - AZDO in OpenGL](https://www.youtube.com/watch?v=K70QbvzB6II)
 * [Shawn McGrath's rant](https://www.youtube.com/watch?v=q4nUK0EBzmI) (talks about various things, including particles)
+* [GDC 2014 - AZDO in OpenGL](https://www.youtube.com/watch?v=K70QbvzB6II)
