@@ -17,17 +17,17 @@ If it happens at all, any further development of this project will most likely b
 ### Features
 
 * Three-staged update: Emission, Motion, Appearance.
-    o Emission - memory allocation (double buffer swap), particle spawn.
-    o Motion - position and velocity update.
-    o Appearance - color and size update.
+    * Emission - memory allocation (double buffer swap), particle spawn.
+    * Motion - position and velocity update.
+    * Appearance - color and size update.
 * Expressions that are used to represent and calculate various parameters for each stage.
-    o Similar to AST expressions; currently has no recursion.
+    * Similar to AST expressions; currently has no recursion.
 * Can use either CPU or GPU for calculations.
-    o GPU calculations were done using OpenGL compute shaders. Curently it means that GPU calculation support is only available for engines using OpenGL 4.3 or higher.
+    * GPU calculations were done using OpenGL compute shaders. Curently it means that GPU calculation support is only available for engines using OpenGL 4.3 or higher.
 * Screen-space collision detection.
-    o Uses depth and normal textures, thus is GPU-only.
+    * Uses depth and normal textures, thus is GPU-only.
 * Creates vertex + index buffers (similar to [dear imgui](https://github.com/ocornut/imgui)) for particle rendering.
-    o However, basically only relevant if CPU is used for the calculations.
+    * However, basically only relevant if CPU is used for the calculations.
 * Tried out the AZDO style OpenGL API -- GPU rendering implementation uses bindless textures.
 
 ### Preview
