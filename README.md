@@ -32,7 +32,7 @@ If it happens at all, any further development of this project will most likely b
 
 ### Preview
 
-Recordings of various particle effects ran in the **ngpe** engine using the Offbeat particle system.
+Recordings (15-20 FPS GIFs) of various particle effects ran in the **ngpe** engine using the Offbeat particle system.
 
 ![Particle effect live editing example](img/editing.gif)
 
