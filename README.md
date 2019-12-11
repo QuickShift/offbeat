@@ -34,31 +34,23 @@ If it happens at all, any further development of this project will most likely b
 
 Recordings of various particle effects ran in the **ngpe** engine using the Offbeat particle system.
 
-![Particle effect live editing example](img/editing.gif)
+![Particle effect live editing example](img/editing.gif "Particle effect live editing example")
 
-![Fire](img/fire.gif)
+![Fire](img/fire.gif "Fire")
 
-![Smoke](img/smoke.gif)
+![Smoke](img/smoke.gif "Smoke")
 
-![Snow](img/snow.gif)
+![Waterfall colliding with a 3D mesh](img/waterfall_collision.gif "Waterfall colliding with a 3D mesh")
 
-![Waterfall colliding with 3D mesh](img/waterfall_collision.gif)
+![Hourglass](img/hourglass.gif "Hourglass")
 
-![Using the collision count parameter - color change after single collision](img/collision_color_change.gif)
+![Sphere changing color depending on distance from camera (purple - orange)](img/purple_orange_sphere.gif "Sphere changing color depending on distance from camera (purple - orange)")
 
-![Neon pole](img/neon_pole.gif)
+![Supernova-like explosion](img/supernova.gif "Supernova-like explosion")
 
-![Red and blue rings](img/red_blue_rings.gif)
+![Flowy flames](img/flowy_flames.gif "Flowy flames")
 
-![Hourglass](img/hourglass.gif)
-
-![Sphere changing color depending on distance from camera (purple - orange)](img/purple_orange_sphere.gif)
-
-![Supernova-like explosion](img/supernova.gif)
-
-![Flowy flames](img/flowy_flames.gif)
-
-![Million particles (color changes depending on the distance from camera)](img/million.gif)
+![Million particles (color changes depending on the distance from camera)](img/million.gif "Million particles (color changes depending on the distance from camera)")
 
 ### Other notes
 
