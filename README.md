@@ -34,23 +34,23 @@ If it happens at all, any further development of this project will most likely b
 
 Recordings of various particle effects ran in the **ngpe** engine using the Offbeat particle system.
 
-![Particle effect live editing example](img/editing.gif "Particle effect live editing example")
+![Particle effect live editing example](img/editing.gif)
 
-![Fire](img/fire.gif "Fire")
+![Fire](img/fire.gif)
 
-![Smoke](img/smoke.gif "Smoke")
+![Smoke](img/smoke.gif)
 
-![Waterfall colliding with a 3D mesh](img/waterfall_collision.gif "Waterfall colliding with a 3D mesh")
+![Waterfall colliding with a 3D mesh](img/waterfall_collision.gif)
 
-![Hourglass](img/hourglass.gif "Hourglass")
+![Hourglass](img/hourglass.gif)
 
-![Sphere changing color depending on distance from camera (purple - orange)](img/purple_orange_sphere.gif "Sphere changing color depending on distance from camera (purple - orange)")
+![Sphere changing color depending on distance from camera (purple - orange)](img/purple_orange_sphere.gif)")
 
-![Supernova-like explosion](img/supernova.gif "Supernova-like explosion")
+![Supernova-like explosion](img/supernova.gif)
 
-![Flowy flames](img/flowy_flames.gif "Flowy flames")
+![Flowy flames](img/flowy_flames.gif)
 
-![Million particles (color changes depending on the distance from camera)](img/million.gif "Million particles (color changes depending on the distance from camera)")
+![Million particles (color changes depending on the distance from camera)](img/million.gif)
 
 ### Other notes
 
