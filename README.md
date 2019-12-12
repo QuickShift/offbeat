@@ -32,30 +32,39 @@ A basic API was created with the idea of making the particle system's integratio
 Recordings (15-20 FPS GIFs) of various particle effects ran in the **ngpe** engine using the Offbeat particle system.
 
 Live editing example:
+
 ![Particle effect live editing example](img/editing.gif)
-
+  
 Fire:
+
 ![Fire](img/fire.gif)
-
+  
 Smoke:
+
 ![Smoke](img/smoke.gif)
-
+  
 Waterfall colliding with a 3D mesh:
+
 ![Waterfall colliding with a 3D mesh](img/waterfall_collision.gif)
-
+  
 Rotating hourglass:
+
 ![Hourglass](img/hourglass.gif)
-
+  
 Sphere formation; particle color depends on the distance from camera:
+
 ![Sphere changing color depending on distance from camera (purple - orange)](img/purple_orange_sphere.gif)")
-
+  
 Supernova-like explosion:
+
 ![Supernova-like explosion](img/supernova.gif)
-
+  
 Flowy flames/ember:
-![Flowy flames](img/flowy_flames.gif)
 
+![Flowy flames](img/flowy_flames.gif)
+  
 Million particles; color depends on the distance from camera:
+
 ![Million particles (color changes depending on the distance from camera)](img/million.gif)
 
 ### Other notes
